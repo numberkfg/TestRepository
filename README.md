@@ -7,7 +7,8 @@
 67
 67
 # Заголовок 3
-[![Мелстрай]([https://example.com](https://icdn.lenta.ru/images/2025/02/18/13/20250218134447385/wide_4_3_74449e8cd9b7316abad371273dba8f14.jpg))]([https://example.com](https://icdn.lenta.ru/images/2025/02/18/13/20250218134447385/wide_4_3_74449e8cd9b7316abad371273dba8f14.jpg))
+[![Мелстройчик](https://example.com)]([[https://example.com](https://icdn.lenta.ru/images/2025/02/18/13/20250218134447385/wide_4_3_74449e8cd9b7316abad371273dba8f14.jpg)](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0+%D0%BC%D0%B5%D0%BB%D1%81%D1%82%D1%80%D0%BE%D0%B9+%D0%B1%D1%83%D1%80%D0%BC%D0%B0%D0%BB%D0%B4%D0%B0&sca_esv=e2b7c0af7d8d89e1&udm=2&biw=1920&bih=953&sxsrf=ANbL-n7eSLSaTdER2Uj-o2I2UcVKvbmfXg%3A1779541324495&ei=TKURapbqHeXYwPAPvMTUuAI&ved=0ahUKEwiWwImEvM-UAxVlLBAIHTwiFScQ4dUDCBE&uact=5&oq=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0+%D0%BC%D0%B5%D0%BB%D1%81%D1%82%D1%80%D0%BE%D0%B9+%D0%B1%D1%83%D1%80%D0%BC%D0%B0%D0%BB%D0%B4%D0%B0&gs_lp=Egtnd3Mtd2l6LWltZyIy0LrQsNGA0YLQuNC90LrQsCDQvNC10LvRgdGC0YDQvtC5INCx0YPRgNC80LDQu9C00LBI3SlQ2AtY2yhwAngAkAEAmAFkoAGwB6oBBDEzLjG4AQPIAQD4AQGYAgWgAsYCwgIHECMYyQIYJ8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHpgDAIgGAZIHATWgB-ITsgcBNbgHxgLCBwMwLjXIBwiACAE&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLXRMZEE2SnJ0ZC1VWVZNMg50TGRBNkpydGQtVVlWTToOakhGSTA2UjdWSzAxZE0gBCocCgZtb3NhaWMSEGUtdExkQTZKcnRkLVVZVk0YADABGAcgmbDZ1AdKCBABGAEgASgB))
+
 
 Вот мой код на питоне:
 ```python
